@@ -2,7 +2,7 @@ import pygame
 import sys
 import random
 
-# Pygame başlat
+# Pygame başla
 pygame.init()
 
 pygame.mixer.music.load('assets/Fun Adventure.mp3')
