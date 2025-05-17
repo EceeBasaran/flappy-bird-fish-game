@@ -1,37 +1,63 @@
-# Flappy Bird-Fish Adventure
-Bu proje, klasik Flappy Bird oyunundan esinlenerek Python ve Pygame ile geliştirilmiş bir 2D oyunudur. Oyunda skor arttıkça karakter ve arkaplan değişir. Örneğin oyuncu 50 puana ulaştığında kuş yerine balık karakterine dönüşür ve borular yerine kılıç balıkları yataydan rastgele olarak karaktere doğru gelir. Her 50 puanda bir arkaplan, karakter ve engeller değişir.
+# 🐦🐠 Flappy Bird-Fish Adventure
 
-# Oyundan Görseller
-![Oyun Başlama Ekranı](images/RESİM1.jpg)
-![1.Tema Ölme Resmi](images/RESİM2.jpg)
-![2.Tema Oyun Ekranı](images/RESİM3.jpg)
-![2.Tema Ölme Ekranı](images/RESİM4.jpg)
+Bu proje, klasik Flappy Bird oyunundan ilham alınarak **Python** ve **Pygame** kullanılarak geliştirilmiş eğlenceli bir 2D oyundur. Oyunun temel amacı, engellerden kaçarken mümkün olduğunca fazla puan toplamaktır. Ancak bu versiyonda işin içine sürprizler de giriyor:
 
-# Özellikler
--Pygame tabanlı 2D oyun mekaniği
--Puan arttıkça karakter değişimi
--Balık modunda borular kaldırılır, kılıç balıkları engel olarak gelir.
--Özel ses ve sprite animasyonları
--Kolay kontrol
--Oyun sonu ekranı
--Restart tuşu
+🎯 **Her 50 puanda bir:**
+- Arka plan değişir  
+- Karakter dönüşüm geçirir (Kuş → Balık)  
+- Yeni engeller ortaya çıkar (Borular yerine kılıç balıkları)
 
-# Oynanış
--Boşluk (Space): Zıplama
--Sol tık: Zıplama
+---
 
-# Notlar
--assets/ klasörü oyun için gerekli resim, ses ve animasyonları içerir.
--main.py oyun döngüsünü çalıştırır.
+## 📸 Oyundan Görseller
+![Oyun Başlama Ekranı](assets/RESİM1.jpg)  
+![1. Tema Ölme Resmi](assets/RESİM2.jpg)  
+![2. Tema Oyun Ekranı](assets/RESİM3.jpg)  
+![2. Tema Ölme Ekranı](assets/RESİM4.jpg)
 
-# Kurulum ve Çalıştırma 
+---
+
+## 🚀 Özellikler
+- 🎮 Pygame tabanlı 2D oyun mekaniği  
+- 🔁 Skor arttıkça *karakter ve tema değişimi*  
+- 🐠 Balık modunda borular yerine *kılıç balıkları*  
+- 🔊 Özel ses efektleri ve sprite animasyonları  
+- 🎯 Kolay kontrol: sadece *boşluk* ya da *fare tıklaması*  
+- 💀 Oyun sonu ekranı ve *restart* butonu  
+
+---
+
+## 🕹 Oynanış
+- ⌨️ *Boşluk (Space)*: Zıplama  
+- 🖱 *Sol tık (Mouse Click)*: Zıplama  
+
+---
+
+## 📁 Notlar
+- `assets/` klasörü tüm resim, ses ve animasyon dosyalarını içerir.  
+- `main.py` oyun döngüsünü başlatır.
+
+---
+
+## ⚙ Kurulum ve Çalıştırma
+
 ### Gereksinimler
--Python 3.x
--Pygame kütüphanesi
+- Python 3.x  
+- Pygame kütüphanesi
 
 ### Kurulum
 ```bash
 git clone https://github.com/EceeBasaran/flappy-bird-fish-game
-cd flappy-adventure
+cd flappy-bird-fish-game
 pip install pygame
 python main.py
+
+---
+
+## 👥 Geliştiriciler
+
+Bu proje aşağıdaki ekip tarafından geliştirilmiştir:
+
+- 🧠 **Ece Başaran** – [@EceeBasaran]
+- 🎨 **Şevval Sönmez** – [@sevvalsonmezz]
+- 🎵 **Ceyda Avcı** – [@cydavc]
