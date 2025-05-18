@@ -10,10 +10,10 @@ Bu proje, klasik Flappy Bird oyunundan ilham alınarak **Python** ve **Pygame** 
 ---
 
 ## 📸 Oyundan Görseller
-![Oyun Başlama Ekranı](assets/RESİM1.jpg)  
-![1. Tema Ölme Resmi](assets/RESİM2.jpg)  
-![2. Tema Oyun Ekranı](assets/RESİM3.jpg)  
-![2. Tema Ölme Ekranı](assets/RESİM4.jpg)
+![Oyun Başlama Ekranı](assets/RESİM1.png)  
+![1. Tema Ölme Resmi](assets/RESİM2.png)  
+![2. Tema Oyun Ekranı](assets/RESİM3.png)  
+![2. Tema Ölme Ekranı](assets/RESİM4.png)
 
 ---
 
@@ -58,6 +58,7 @@ python main.py
 
 Bu proje aşağıdaki ekip tarafından geliştirilmiştir:
 
-- 🧠 **Ece Başaran** – [@EceeBasaran]
-- 🎨 **Şevval Sönmez** – [@sevvalsonmezz]
+- 🧠 **Ece Başaran** – [@EceeBasaran]  
+- 🎨 **Şevval Sönmez** – [@sevvalsonmezz]  
 - 🎵 **Ceyda Avcı** – [@cydavc]
+
